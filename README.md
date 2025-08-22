@@ -38,14 +38,14 @@ Veriler CSV dosyalarında saklanır, ayrıca görselleştirilerek `visuals/` kla
 ## 📂 Proje Yapısı
 Daily_Data_Tracker/
 │
-├── data/ # Verilerin kaydedildiği CSV dosyaları
-│ ├── currency.csv
-│ └── analysis.csv
+├── data/ # Verilerin kaydedildiği CSV dosyaları/
+│ ├── currency.csv/
+│ └── analysis.csv/
 │
-├── visuals/ # Otomatik oluşturulan grafikler
-│ ├── temperature_daily.png
-│ ├── temperature_vs_avg.png
-│ └── warnings_bar.png
+├── visuals/ # Otomatik oluşturulan grafikler/
+│ ├── temperature_daily.png/
+│ ├── temperature_vs_avg.png/
+│ └── warnings_bar.png/
 │
-├── main.py # Ana Python scripti
-└── README.md # Bu dosya
+├── main.py # Ana Python scripti/
+└── README.md # Bu dosya/
